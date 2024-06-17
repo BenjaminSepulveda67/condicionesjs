@@ -1,0 +1,23 @@
+body {
+  margin: 0%;
+  padding: 0%;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 5%;
+  height: 70vh;
+}
+
+.container img {
+  max-width: 70%;
+  cursor: pointer;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+}
